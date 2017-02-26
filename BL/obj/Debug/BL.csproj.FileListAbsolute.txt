@@ -1,0 +1,5 @@
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\BL\bin\Debug\BL.dll
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\BL\bin\Debug\BL.pdb
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\BL\obj\Debug\BL.dll
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\BL\obj\Debug\BL.pdb

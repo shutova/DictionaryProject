@@ -1,0 +1,11 @@
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\DictionaryWFA\bin\Debug\DictionaryWFA.exe.config
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\DictionaryWFA\bin\Debug\DictionaryWFA.exe
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\DictionaryWFA\bin\Debug\DictionaryWFA.pdb
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\DictionaryWFA\obj\Debug\DictionaryWFA.csprojResolveAssemblyReference.cache
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\DictionaryWFA\obj\Debug\DictionaryWFA.Properties.Resources.resources
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\DictionaryWFA\obj\Debug\DictionaryWFA.csproj.GenerateResource.Cache
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\DictionaryWFA\obj\Debug\DictionaryWFA.exe
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\DictionaryWFA\obj\Debug\DictionaryWFA.pdb
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\DictionaryWFA\bin\Debug\BL.dll
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\DictionaryWFA\bin\Debug\BL.pdb
+c:\users\rgirbu\documents\visual studio 2017\Projects\DictionaryProject\DictionaryWFA\obj\Debug\DictionaryWFA.DictionaryMainForm.resources
