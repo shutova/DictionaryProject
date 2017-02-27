@@ -8,10 +8,7 @@ namespace BL
         public List<TKey> Keys { get; private set; }
         public List<TValue> Values { get; private set; }
 
-        public int Count
-        {
-            get { return Keys.Count; }
-        }
+        public int Count => Keys.Count;
 
         public TValue this[TKey key]
         {
@@ -23,22 +20,13 @@ namespace BL
             }
         }
 
-        public MyDictionary(int capacity)
-        {
-            Keys = new List<TKey>(capacity);
-            Values = new List<TValue>(capacity);
-        }
-
         public MyDictionary()
         {
             Keys = new List<TKey>();
             Values = new List<TValue>();
         }
 
-        public bool IsEmpty()
-        {
-            return Keys.Count == 0;
-        }
+        public bool IsEmpty() => Keys.Count == 0;
 
         public void Clear()
         {
@@ -70,9 +58,6 @@ namespace BL
             }
         }
 
-        public bool ContainsKey(TKey key)
-        {
-            return Keys.Contains(key);
-        }
+        public bool ContainsKey(TKey key) => Keys.Contains(key);
     }
 }

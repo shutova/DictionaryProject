@@ -2,7 +2,6 @@
 {
     public interface IMyDictionary<in TKey, TValue>
     {
-
         TValue this[TKey key] { get; set; }
         int Count { get; }
 
