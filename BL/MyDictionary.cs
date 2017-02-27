@@ -20,10 +20,10 @@ namespace BL
             }
         }
 
-        public MyDictionary()
+        public MyDictionary(int capacity = 10)
         {
-            Keys = new List<TKey>();
-            Values = new List<TValue>();
+            Keys = new List<TKey>(capacity);
+            Values = new List<TValue>(capacity);
         }
 
         public bool IsEmpty() => Keys.Count == 0;
